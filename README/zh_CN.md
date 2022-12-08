@@ -21,7 +21,7 @@
 
 ---
 ## 目标清单
-状态标志    :x: 未解决    :o: 解决   :question: 未知状态
+状态标识：:x: 未解决 / :o: 已经解决 / :question: 未知状态
 | 状态 | 问题 |  解决方案 | 备注 |
 |-|-|-|-|
 | :x: | 基于 [BlackList User-Agent](https://github.com/8Mi-Tech/yourls-ban-useragent) 插件编写

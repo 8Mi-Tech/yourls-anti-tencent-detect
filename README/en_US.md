@@ -18,7 +18,7 @@ base on [this project](https://github.com/8Mi-Tech/short-url-mini-cn)'s `txprote
 
 ---
 ## To Do List
-Status Tags:<br>    :x: No Solve<br>    :o: Solved<br>   :question: Unknown
+Status Tags：:x: Not Solve / :o: Solved / :question: Unknown
 | Status | Question |  Solved? | Note |
 |-|-| :-: |-|
 | :x: | Become an affiliate plug-in for [BlackList User-Agent](https://github.com/8Mi-Tech/yourls-ban-useragent)
